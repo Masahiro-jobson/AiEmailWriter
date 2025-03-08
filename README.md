@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/-Node.js-000000.svg?logo=node.js&style=for-the-badge">
   <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <!-- フロントエンドの言語一覧 -->
-  <img src="https%3A%2F%2Fimg.shields.io%2Fbadge%2F-JavaScript-000000.svg%3Fstyle%3Dfor-the-badge%26logo%3DJavaScript%26logoColor%3DF7DF1E?ixlib=rb-4.0.0&auto=format&gif-q=60&q=75&s=7a90e0e66d0f873de7b7fe04977968ba">
+  <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=#F7DF1E">
   <!-- バックエンドのフレームワーク一覧 -->
   <img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=for-the-badge">
   <!-- バックエンドの言語一覧 -->
