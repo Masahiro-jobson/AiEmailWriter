@@ -15,6 +15,7 @@ import lombok.AllArgsConstructor;
 @RestController
 @RequestMapping("/api/email")
 @AllArgsConstructor
+@RestController
 public class EmailGeneratorController {
 
 	private final EmailGeneratorService emailGeneratorService;
