@@ -1,5 +1,5 @@
-# AI Email Writer
-<div id="top"></div>
+
+<div id="top">AI Email Writer</div>
 
 ## 使用技術一覧
 
