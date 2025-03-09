@@ -28,7 +28,7 @@
 
 ## Table of contents
 
-1. [AboutProject](#AboutProject)
+1. [About Project](#AboutProject)
 2. [Environment](#Environment)
 3. [Composition of the Directory](#CompositionOfTheDirectory)
 4. [Create Development Environment](#CreateDevelopmentEnvironment)
@@ -53,7 +53,7 @@ React、DRF、Terraform のテンプレートリポジトリ
 
 <!-- プロジェクトについて -->
 
-## AboutProject
+## About Project
 
 React、DRF、Terraform を勉強する際に使用できるテンプレート
 
