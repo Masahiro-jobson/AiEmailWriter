@@ -58,7 +58,6 @@ React、DRF、Terraform のテンプレートリポジトリ
 ## Project
 
 React、DRF、Terraform を勉強する際に使用できるテンプレート
-
 <!-- プロジェクトの概要を記載 -->
 
   <p align="left">
