@@ -79,7 +79,7 @@ React、DRF、Terraform を勉強する際に使用できるテンプレート
 | Node.js               | 22.14.0    |
 | React                 | 19.0.0     |
 
-For other package version, please refer to pom.xml と package.json.
+For other package version, please refer to pom.xml and package.json.
 
 <p align="right">(<a href="#top">Back to Top</a>)</p>
 
@@ -158,12 +158,11 @@ DJANGO_SETTINGS_MODULE=project.settings.local
 
 .env ファイルを作成後、以下のコマンドで開発環境を構築 -->
 
-make prepare
 
-### 動作確認
+### Check how it works
 
-http://127.0.0.1:8000 にアクセスできるか確認
-アクセスできたら成功
+Check if you can access to http://127.0.0.1:8000
+If so, it's successful.
 
 <!-- 
 <### コンテナの停止
