@@ -28,11 +28,11 @@
 
 ## Table of contents
 
-1. [プロジェクトについて](#プロジェクトについて)
-2. [環境](#環境)
-3. [ディレクトリ構成](#ディレクトリ構成)
-4. [開発環境構築](#開発環境構築)
-5. [トラブルシューティング](#トラブルシューティング)
+1. [About Project](#About Project)
+2. [Environment](#Environment)
+3. [Composition of the Directory](#Composition of the Directory)
+4. [Create Development Environment](#Create Development Environment)
+5. [Troubleshooting](#Troubleshooting)
 
 <!-- READMEの作成方法のドキュメントのリンク -->
 <br />
@@ -53,7 +53,7 @@ React、DRF、Terraform のテンプレートリポジトリ
 
 <!-- プロジェクトについて -->
 
-## プロジェクトについて
+## About Project
 
 React、DRF、Terraform を勉強する際に使用できるテンプレート
 
