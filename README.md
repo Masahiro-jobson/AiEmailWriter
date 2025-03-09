@@ -9,6 +9,8 @@
   <!-- フロントエンドのフレームワーク一覧 -->
   <img src="https://img.shields.io/badge/-Node.js-000000.svg?logo=node.js&style=for-the-badge">
   <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
+  
   <!-- フロントエンドの言語一覧 -->
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <!-- バックエンドの言語一覧 -->
@@ -35,16 +37,16 @@
 5. [Troubleshooting](#Troubleshooting)
 
 <!-- READMEの作成方法のドキュメントのリンク -->
-<br />
+<!-- <br />
 <div align="right">
     <a href="READMEの作成方法のリンク"><strong>READMEの作成方法 »</strong></a>
 </div>
 <br />
 <!-- Dockerfileのドキュメントのリンク -->
-<div align="right">
+<!-- <div align="right">
     <a href="Dockerfileの詳細リンク"><strong>Dockerfileの詳細 »</strong></a>
 </div>
-<br />
+<br /> 
 <!-- プロジェクト名を記載 -->
 
 ## AI Email Writer
@@ -249,4 +251,4 @@ make build
 
 を実行して Docker image を更新してください
 
-<p align="right">(<a href="#top">トップへ</a>)</p>
+<p align="right">(<a href="#top">Back to Top</a>)</p>
