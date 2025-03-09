@@ -68,7 +68,7 @@ React、DRF、Terraform を勉強する際に使用できるテンプレート
     <br />
     <br />
 
-<p align="right">(<a href="#top">トップへ</a>)</p>
+<p align="right">(<a href="#top">Back to Top</a>)</p>
 
 ## Environment
 
