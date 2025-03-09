@@ -28,10 +28,10 @@
 
 ## Table of contents
 
-1. [About Project](#AboutProject)
+1. [Project](#Project)
 2. [Environment](#Environment)
-3. [Composition of the Directory](#CompositionOfTheDirectory)
-4. [Create Development Environment](#CreateDevelopmentEnvironment)
+3. [Directory](#Directory)
+4. [CrateDevelopmentEnvironment](#CreateDevelopmentEnvironment)
 5. [Troubleshooting](#Troubleshooting)
 
 <!-- READMEの作成方法のドキュメントのリンク -->
@@ -53,7 +53,7 @@ React、DRF、Terraform のテンプレートリポジトリ
 
 <!-- プロジェクトについて -->
 
-## About Project
+## Project
 
 React、DRF、Terraform を勉強する際に使用できるテンプレート
 
@@ -85,9 +85,9 @@ React、DRF、Terraform を勉強する際に使用できるテンプレート
 
 その他のパッケージのバージョンは pyproject.toml と package.json を参照してください
 
-<p align="right">(<a href="#top">トップへ</a>)</p>
+<p align="right">(<a href="#top">Back to Top</a>)</p>
 
-## Composition of the Directory
+## Directory
 
 <!-- Treeコマンドを使ってディレクトリ構成を記載 -->
 
@@ -142,7 +142,7 @@ React、DRF、Terraform を勉強する際に使用できるテンプレート
 
 <p align="right">(<a href="#top">トップへ</a>)</p>
 
-## Create Development Environment
+## CreateDevelopmentEnvironment
 
 <!-- コンテナの作成方法、パッケージのインストール方法など、開発環境構築に必要な情報を記載 -->
 
