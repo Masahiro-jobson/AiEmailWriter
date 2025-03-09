@@ -1,5 +1,5 @@
 
-<div id="top">AI Email Writer</div>
+<div id="top"></div>
 
 ## Table of the development environment
 
@@ -47,7 +47,7 @@
 <br />
 <!-- プロジェクト名を記載 -->
 
-## プロジェクト名
+## AI Email Writer
 
 React、DRF、Terraform のテンプレートリポジトリ
 
