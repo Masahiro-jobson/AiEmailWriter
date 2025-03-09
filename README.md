@@ -57,7 +57,16 @@ React、DRF、Terraform のテンプレートリポジトリ
 
 ## Project
 
-React、DRF、Terraform を勉強する際に使用できるテンプレート
+<p>
+   This project is AI Email Writer, which enables for users to create <br/>
+  Email contents by sending prompts to the chatbot (used Gemini here).<br/>
+  
+   In the Backend side, I used SpringBoot framework. There are 4 classes such as <br/>
+  EmailWriterApplication, EmailGeneratorController(Controller),  EmailGeneratorService (Service), EmailRequest.<br/>
+  EmailWriterApplication is the main class for making the program run. EmailRequest handles<br/>
+  Request from @Requestbody in the Controller with emailcontent and tone variables. Due to @Data, it is unnecessary to<br/>
+  to make getter, setter, and constructor in this class.<br/>
+</p>
 <!-- プロジェクトの概要を記載 -->
 <!-- 
   <p align="left">
