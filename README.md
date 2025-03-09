@@ -74,18 +74,14 @@ React、DRF、Terraform を勉強する際に使用できるテンプレート
 
 <!-- 言語、フレームワーク、ミドルウェア、インフラの一覧とバージョンを記載 -->
 
-| 言語・フレームワーク  | バージョン |
+| Language・Framework  | Version |
 | --------------------- | ---------- |
-| Python                | 3.11.4     |
-| Django                | 4.2.1      |
-| Django Rest Framework | 3.14.0     |
-| MySQL                 | 8.0        |
-| Node.js               | 16.17.0    |
-| React                 | 18.2.0     |
-| Next.js               | 13.4.6     |
-| Terraform             | 1.3.6      |
+| Java                  | 17.0.10    |
+| Spring Boot           | 3.4.3      |
+| Node.js               | 22.14.0    |
+| React                 | 19.0.0     |
 
-その他のパッケージのバージョンは pyproject.toml と package.json を参照してください
+For other package version, please refer to pom.xml と package.json.
 
 <p align="right">(<a href="#top">Back to Top</a>)</p>
 
@@ -144,8 +140,9 @@ React、DRF、Terraform を勉強する際に使用できるテンプレート
 
 ## CreateDevelopmentEnvironment
 
-<!-- コンテナの作成方法、パッケージのインストール方法など、開発環境構築に必要な情報を記載 -->
 
+<!-- コンテナの作成方法、パッケージのインストール方法など、開発環境構築に必要な情報を記載 -->
+<!-- 
 ### コンテナの作成と起動
 
 .env ファイルを以下の環境変数例と[環境変数の一覧](#環境変数の一覧)を元に作成
@@ -161,7 +158,7 @@ SECRET_KEY=django
 DJANGO_SETTINGS_MODULE=project.settings.local
 
 
-.env ファイルを作成後、以下のコマンドで開発環境を構築
+.env ファイルを作成後、以下のコマンドで開発環境を構築 -->
 
 make prepare
 
@@ -170,7 +167,8 @@ make prepare
 http://127.0.0.1:8000 にアクセスできるか確認
 アクセスできたら成功
 
-### コンテナの停止
+<!-- 
+<### コンテナの停止
 
 以下のコマンドでコンテナを停止することができます
 
@@ -247,6 +245,6 @@ Docker Desktop が起動できていないので起動させましょう
 
 make build
 
-を実行して Docker image を更新してください
+を実行して Docker image を更新してください-->
 
 <p align="right">(<a href="#top">Back to Top</a>)</p>
