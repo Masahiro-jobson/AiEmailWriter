@@ -28,10 +28,10 @@
 
 ## Table of contents
 
-1. [About Project](#About Project)
+1. [About Project](#AboutProject)
 2. [Environment](#Environment)
-3. [Composition of the Directory](#Composition of the Directory)
-4. [Create Development Environment](#Create Development Environment)
+3. [Composition of the Directory](#CompositionOfTheDirectory)
+4. [Create Development Environment](#CreateDevelopmentEnvironment)
 5. [Troubleshooting](#Troubleshooting)
 
 <!-- READMEの作成方法のドキュメントのリンク -->
@@ -68,7 +68,7 @@ React、DRF、Terraform を勉強する際に使用できるテンプレート
 
 <p align="right">(<a href="#top">トップへ</a>)</p>
 
-## 環境
+## Environment
 
 <!-- 言語、フレームワーク、ミドルウェア、インフラの一覧とバージョンを記載 -->
 
@@ -87,7 +87,7 @@ React、DRF、Terraform を勉強する際に使用できるテンプレート
 
 <p align="right">(<a href="#top">トップへ</a>)</p>
 
-## ディレクトリ構成
+## Composition of the Directory
 
 <!-- Treeコマンドを使ってディレクトリ構成を記載 -->
 
@@ -142,7 +142,7 @@ React、DRF、Terraform を勉強する際に使用できるテンプレート
 
 <p align="right">(<a href="#top">トップへ</a>)</p>
 
-## 開発環境構築
+## Create Development Environment
 
 <!-- コンテナの作成方法、パッケージのインストール方法など、開発環境構築に必要な情報を記載 -->
 
@@ -225,7 +225,7 @@ make down
 リモートデバッグ を使用する際は以下の url を参考に設定してください<br>
 [Django のコンテナへリモートデバッグしよう！](https://qiita.com/shun198/items/9e4fcb4479385217c323)
 
-## トラブルシューティング
+## Troubleshooting
 
 ### .env: no such file or directory
 
