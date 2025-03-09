@@ -65,10 +65,10 @@ React、DRF、Terraform を勉強する際に使用できるテンプレート
     <!-- プロジェクト詳細にBacklogのWikiのリンク -->
     <a href="Backlogのwikiリンク"><strong>プロジェクト詳細 »</strong></a>
     <br />
-    <br />-->
+    <br />　
+    -->
 
 <p align="right">(<a href="#top">Back to Top</a>)</p>
-
 ## Environment
 
 <!-- 言語、フレームワーク、ミドルウェア、インフラの一覧とバージョンを記載 -->
